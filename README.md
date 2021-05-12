@@ -1,1 +1,1 @@
-# BSC-UI
+# BEP20-UI
